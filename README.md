@@ -76,7 +76,7 @@ _[Фигма-макет с UI-элементами](https://www.figma.com/file/Q
 <p>
   <a href="https://t.me/evgevgevge"><img src="readme/icon-tg.svg" alt="Telegram"></a>
     <img src="readme/icon-whitespace-5px.svg"/>
-  <a href="mailto:beagle-elgaeb@ya.ru"><img src="readme/icon-mail.svg" alt="Mail"></a>
+  <a href="mailto:beagle-dog@mail.ru"><img src="readme/icon-mail.svg" alt="Mail"></a>
     <img src="readme/icon-whitespace-5px.svg"/>
   <a href="https://www.instagram.com/evg._.su/"><img src="readme/icon-inst.svg" alt="Instagram"></a>
 </p>
