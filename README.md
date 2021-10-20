@@ -1,7 +1,7 @@
 # Тестовое задание от AB Test Real
 
 _[Ссылка на приложение](http://178.128.136.91/ "Приложение")_  
-_github подставляет s в http, она там не нужна_  
+_github подставляет `s` в `http`..._  
 
 <p>
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="readme/icon-js.svg" alt="JS"></a>
